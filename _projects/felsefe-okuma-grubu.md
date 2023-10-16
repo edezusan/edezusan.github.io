@@ -45,11 +45,11 @@ Okuma grubunun her buluşmasında kitabın hangi bölümünün konuşulacağı �
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/enkheiridion.png" title="Enkheiridion" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/enkheiridion3.jpg" title="Enkheiridion" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    _Enkheiridion_, Epiktetos (çev. C. Cengiz Çevik), 2021, Türkiye İş Bankası Kültür Yayınları.
+    *Enkheiridion*, Epiktetos (çev. C. Cengiz Çevik), 2021, Türkiye İş Bankası Kültür Yayınları.
 </div>
 
 Epiktetos Stoacı filozoflar arasındaki en önemli figürlerden biri. Etik hakkında, özellikle de sahici olma, özgürlük ve kendi kendini idare edebilme gibi erdemler hakkında yazdıkları geçmişte olduğu gibi günümüzde de birçok kişiyi etkilemeye devam ediyor.
@@ -74,12 +74,13 @@ Her Şey Ne Anlama Geliyor | Thomas Nagel | 2021-09 | 2021-11
 
 # Güncel organizasyon detayları
 
-Kolaylaştırıcı: Ediz Dikmelik  
-Eğitim başlangıç tarihi: 14 Ekim 2023 Cumartesi
-Eğitim bitiş tarihi: 4 Kasım 2023 Cumartesi
-Oturum zamanı: Her Cumartesi 15:00 - 16:00 
-Oturum yeri: Alsancak, İzmir 
-Toplam eğitim süresi: 4 saat (4 buluşma)
-Toplam eğitim ücreti: 1750 ₺
+---|---
+Kolaylaştırıcı | Ediz Dikmelik  
+Eğitim başlangıç tarihi | 14 Ekim 2023 Cumartesi
+Eğitim bitiş tarihi | 4 Kasım 2023 Cumartesi
+Oturum zamanı | Her Cumartesi 15:00 - 16:00 
+Oturum yeri | Alsancak, İzmir 
+Toplam eğitim süresi | 4 saat (4 buluşma)
+Toplam eğitim ücreti | 1750 ₺
 
 <center> <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScvoPkUC2azgUuAEEf8SP4tnqMsKZu3gYbJvc36Hld4o5cd2Q/viewform?embedded=true" width="640" height="1280" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> </center>
