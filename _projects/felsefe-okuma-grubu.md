@@ -43,7 +43,7 @@ Okuma grubunun her buluşmasında kitabın hangi bölümünün konuşulacağı �
 
 # Güncel kitap
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/enkheiridion3.jpg" title="Enkheiridion" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -57,20 +57,6 @@ Epiktetos Stoacı filozoflar arasındaki en önemli figürlerden biri. Etik hakk
 Bu buluşma serisinde “kılavuz” ya da “rehber” olarak da bilinen Enkheiridion isimli oldukça kısa bir eserini okuyoruz. Sokrates gibi yazılı bir eser bırakmayan Epiktetos’un düşünceleri, öğrencisi Arrianus tarafından çeşitli kitaplarda toplandı. Okuyacağımız rehber, daha uzun kitabın (Söylevler) bir özetini teşkil ediyor.
 
 Metnin kendisi oldukça kısa. Cengiz Çevik’in kapsamlı açıklama ve notlarını da dikkatle inceleyeceğiz. Amacımız Epiktetos ve Stoa felsefesine bir giriş yapmak. Bir yandan da 21. yüzyıl insanına neden bu kadar hitap ettiğini inceleyecek ve erdemler hakkında söylediklerinin günlük hayatımıza olası etkileri hakkında düşünceğiz.
-
-# Ren Okuma Grubu Geçmişi
-
-
-Kitap ismi | Yazar | Başlangıç | Bitiş
----|---|---|---
-Tetralog | Timothy Williamson | 2023-09 | 2023-10
-Enkheiridion | Epiktetos | 2023-07 | 2023-07
-Pratik Etik | Peter Singer | 2023-02 | 2023-05
-Çekirge: Oyun, Yaşam ve Ütopya | Bernard Suits | 2022-11 | 2023-01
-Sokrates’in Ölümü |	Emily Wilson | 2022-09 | 2022-11
-Devlet | Platon | 2021-11 | 2022-05
-Her Şey Ne Anlama Geliyor | Thomas Nagel | 2021-09 | 2021-11
-
 
 # Güncel organizasyon detayları
 
