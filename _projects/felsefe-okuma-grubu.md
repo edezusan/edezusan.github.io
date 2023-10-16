@@ -60,6 +60,7 @@ Metnin kendisi oldukça kısa. Cengiz Çevik’in kapsamlı açıklama ve notlar
 
 # Ren Okuma Grubu Geçmişi
 
+
 Kitap ismi | Yazar | Başlangıç | Bitiş
 ---|---|---|---
 Tetralog | Timothy Williamson | 2023-09 | 2023-10
@@ -68,7 +69,8 @@ Pratik Etik | Peter Singer | 2023-02 | 2023-05
 Çekirge: Oyun, Yaşam ve Ütopya | Bernard Suits | 2022-11 | 2023-01
 Sokrates’in Ölümü |	Emily Wilson | 2022-09 | 2022-11
 Devlet | Platon | 2021-11 | 2022-05
-Her Şey Ne Anlama Geliyor | Thomas Nagel 2021-09 | 2021-11
+Her Şey Ne Anlama Geliyor | Thomas Nagel | 2021-09 | 2021-11
+
 
 # Güncel organizasyon detayları
 
