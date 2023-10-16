@@ -25,4 +25,4 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
-<iframe src="https://edizdikmelik.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://edizdikmelik.substack.com/embed" width="480" height="220" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>

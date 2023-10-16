@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-# Ren Okuma Grubu Geçmişi
+<a href="/hizmetler/felsefe-okuma-grubu">Felsefe Okuma Grubumuzda</a> daha önce okuduğumuz kitapları aşağıdaki tablodan inceleyebilirsiniz. Bir kitap bitirdiğimizde tabloyu güncelliyorum.
 
 Kitap ismi | Yazar | Başlangıç | Bitiş
 ---|---|---|---
