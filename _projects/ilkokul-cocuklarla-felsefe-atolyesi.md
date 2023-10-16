@@ -67,6 +67,9 @@ Just wrap your images with `<div class="col-sm">` and place them inside `<div cl
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
 Here's the code for the last row of images above:
 
+
+<center> <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelcg0kgsgIGz_HaccROsrItLilF0rWlBLhNld67DtICh2DhA/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> </center>
+
 {% raw %}
 ```html
 <div class="row justify-content-sm-center">
@@ -78,7 +81,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-
-<center> <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSelcg0kgsgIGz_HaccROsrItLilF0rWlBLhNld67DtICh2DhA/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> </center>
-
 {% endraw %}

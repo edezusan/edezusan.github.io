@@ -167,10 +167,10 @@ collections:
     defaults:
       layout: post
     output: true
-    permalink: /news/:path/
+    permalink: /haberler/:path/
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: /hizmetler/:path/
 
 announcements:
   enabled: true
