@@ -47,6 +47,9 @@ Okuma grubunun her buluşmasında kitabın hangi bölümünün konuşulacağı �
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/enkheiridion3.jpg" title="Enkheiridion" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="caption">
+    *Enkheiridion*, Epiktetos (çev. C. Cengiz Çevik), 2021, Türkiye İş Bankası Kültür Yayınları.
+	</div>
 </div>
 <div class="caption">
     *Enkheiridion*, Epiktetos (çev. C. Cengiz Çevik), 2021, Türkiye İş Bankası Kültür Yayınları.
