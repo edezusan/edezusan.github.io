@@ -58,6 +58,16 @@ Bu buluşma serisinde “kılavuz” ya da “rehber” olarak da bilinen Enkhei
 
 Metnin kendisi oldukça kısa. Cengiz Çevik’in kapsamlı açıklama ve notlarını da dikkatle inceleyeceğiz. Amacımız Epiktetos ve Stoa felsefesine bir giriş yapmak. Bir yandan da 21. yüzyıl insanına neden bu kadar hitap ettiğini inceleyecek ve erdemler hakkında söylediklerinin günlük hayatımıza olası etkileri hakkında düşünceğiz.
 
+<div class="media">
+  <img class="align-self-start mr-3" src="assets/img/enkheiridion3.jpg" alt="Enkheiridion">
+  <div class="media-body">
+    <h5 class="mt-0">Top-aligned media</h5>
+    <p>Epiktetos Stoacı filozoflar arasındaki en önemli figürlerden biri. Etik hakkında, özellikle de sahici olma, özgürlük ve kendi kendini idare edebilme gibi erdemler hakkında yazdıkları geçmişte olduğu gibi günümüzde de birçok kişiyi etkilemeye devam ediyor.</p>
+    <p>Bu buluşma serisinde “kılavuz” ya da “rehber” olarak da bilinen Enkheiridion isimli oldukça kısa bir eserini okuyoruz. Sokrates gibi yazılı bir eser bırakmayan Epiktetos’un düşünceleri, öğrencisi Arrianus tarafından çeşitli kitaplarda toplandı. Okuyacağımız rehber, daha uzun kitabın (Söylevler) bir özetini teşkil ediyor.</p>
+    <p>Metnin kendisi oldukça kısa. Cengiz Çevik’in kapsamlı açıklama ve notlarını da dikkatle inceleyeceğiz. Amacımız Epiktetos ve Stoa felsefesine bir giriş yapmak. Bir yandan da 21. yüzyıl insanına neden bu kadar hitap ettiğini inceleyecek ve erdemler hakkında söylediklerinin günlük hayatımıza olası etkileri hakkında düşünceğiz.<p>
+  </div>
+</div>
+
 # Güncel organizasyon detayları
 
 ---|---
