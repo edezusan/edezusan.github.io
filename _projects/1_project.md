@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
+title: Çocuklarla Felsefe - İlkokul Grubu
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Çocuk Eğitimleri
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
