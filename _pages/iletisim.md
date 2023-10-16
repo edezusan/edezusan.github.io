@@ -7,9 +7,11 @@ nav: true
 nav_order: 4
 ---
 
-# Whatsapp ve Telegram duyuru grupları
-
 # Eposta bülteni
+
+<iframe src="https://edizdikmelik.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
+# Whatsapp ve Telegram duyuru grupları
 
 # Eposta
 
