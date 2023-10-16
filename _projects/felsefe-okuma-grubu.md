@@ -43,7 +43,7 @@ Okuma grubunun her buluşmasında kitabın hangi bölümünün konuşulacağı �
 
 # Güncel kitap
 
-<div class="row justify-content-sm-center">
+<div class="row align-items-center justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/enkheiridion3.jpg" title="Enkheiridion" class="img-fluid rounded z-depth-1" %}
     </div>
