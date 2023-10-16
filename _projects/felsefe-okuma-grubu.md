@@ -4,7 +4,7 @@ title: Felsefe Okuma Grubu
 description: Bir felsefe kitabını birlikte okuyor ve her hafta buluşup kitabın bir bölümünü tartışıyoruz.
 img: assets/img/12.jpg
 importance: 1
-category: Yetişkin eğitimleri
+category: Yetişkin Eğitimleri
 ---
 
 Felsefe okumak zordur. Bunun tek sebebi metinlerin içeriğinin zor olması değil. Felsefe okumak özel yöntemler gerektiriyor. Üst düzey okuma becerilerine sahip kişiler bile bu yöntemleri bilmedikleri için felsefi metinlere herhangi bir kitap gibi, alışık oldukları şekilde yaklaşıyorlar. Bu da zaten zor olan bir işe yanlış araçlarla girişmek demek... Dalgalı bir denizde bisikletle açılmaya benziyor. Çoğu kişinin kitabın başlarında pes etmesine şaşmamalı.
