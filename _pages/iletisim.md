@@ -9,13 +9,13 @@ nav_order: 4
 
 # Eposta bülteni
 
-<iframe src="https://edizdikmelik.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<center><iframe src="https://edizdikmelik.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe></center>
 
 # Whatsapp ve Telegram duyuru grupları
 
 # Eposta
 
-<a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a>
+<center><a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a></center>
 
 # Sosyal medya
 
