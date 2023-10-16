@@ -44,15 +44,12 @@ Okuma grubunun her buluşmasında kitabın hangi bölümünün konuşulacağı �
 # Güncel kitap
 
 <div class="row align-items-center justify-content-center">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-md-auto mt-3 mt-md-0">
         {% include figure.html path="assets/img/enkheiridion3.jpg" title="Enkheiridion" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-md">
-    *Enkheiridion*, Epiktetos (çev. C. Cengiz Çevik), 2021, Türkiye İş Bankası Kültür Yayınları.
+    *Enkheiridion*, Epiktetos (çev. C. Cengiz Çevik),<br> 2021, Türkiye İş Bankası Kültür Yayınları.
 	</div>
-</div>
-<div class="caption">
-    *Enkheiridion*, Epiktetos (çev. C. Cengiz Çevik), 2021, Türkiye İş Bankası Kültür Yayınları.
 </div>
 
 Epiktetos Stoacı filozoflar arasındaki en önemli figürlerden biri. Etik hakkında, özellikle de sahici olma, özgürlük ve kendi kendini idare edebilme gibi erdemler hakkında yazdıkları geçmişte olduğu gibi günümüzde de birçok kişiyi etkilemeye devam ediyor.
