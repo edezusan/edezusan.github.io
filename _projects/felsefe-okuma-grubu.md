@@ -43,12 +43,12 @@ Okuma grubunun her buluşmasında kitabın hangi bölümünün konuşulacağı �
 
 # Güncel kitap
 
-<div class="row align-items-center justify-content-center">
-    <div class="col-md-auto">
+<div class="row align-items-center justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/enkheiridion3.jpg" title="Enkheiridion" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-md">
-    *Enkheiridion*, Epiktetos (çev. C. Cengiz Çevik),<br> 2021, Türkiye İş Bankası Kültür Yayınları.
+    <div class="col-sm-8 mt-3 mt-md-0">
+    <i>Enkheiridion</i>, Epiktetos (çev. C. Cengiz Çevik),<br> 2021, Türkiye İş Bankası Kültür Yayınları.
 	</div>
 </div>
 
@@ -57,16 +57,6 @@ Epiktetos Stoacı filozoflar arasındaki en önemli figürlerden biri. Etik hakk
 Bu buluşma serisinde “kılavuz” ya da “rehber” olarak da bilinen Enkheiridion isimli oldukça kısa bir eserini okuyoruz. Sokrates gibi yazılı bir eser bırakmayan Epiktetos’un düşünceleri, öğrencisi Arrianus tarafından çeşitli kitaplarda toplandı. Okuyacağımız rehber, daha uzun kitabın (Söylevler) bir özetini teşkil ediyor.
 
 Metnin kendisi oldukça kısa. Cengiz Çevik’in kapsamlı açıklama ve notlarını da dikkatle inceleyeceğiz. Amacımız Epiktetos ve Stoa felsefesine bir giriş yapmak. Bir yandan da 21. yüzyıl insanına neden bu kadar hitap ettiğini inceleyecek ve erdemler hakkında söylediklerinin günlük hayatımıza olası etkileri hakkında düşünceğiz.
-
-<div class="media">
-  <img class="align-self-start mr-3" src="assets/img/enkheiridion3.jpg" alt="Enkheiridion">
-  <div class="media-body">
-    <h5 class="mt-0"> <i>Enkheiridion</i>, Epiktetos (çev. C. Cengiz Çevik)</h5>
-    <p>Epiktetos Stoacı filozoflar arasındaki en önemli figürlerden biri. Etik hakkında, özellikle de sahici olma, özgürlük ve kendi kendini idare edebilme gibi erdemler hakkında yazdıkları geçmişte olduğu gibi günümüzde de birçok kişiyi etkilemeye devam ediyor.</p>
-    <p>Bu buluşma serisinde “kılavuz” ya da “rehber” olarak da bilinen Enkheiridion isimli oldukça kısa bir eserini okuyoruz. Sokrates gibi yazılı bir eser bırakmayan Epiktetos’un düşünceleri, öğrencisi Arrianus tarafından çeşitli kitaplarda toplandı. Okuyacağımız rehber, daha uzun kitabın (Söylevler) bir özetini teşkil ediyor.</p>
-    <p>Metnin kendisi oldukça kısa. Cengiz Çevik’in kapsamlı açıklama ve notlarını da dikkatle inceleyeceğiz. Amacımız Epiktetos ve Stoa felsefesine bir giriş yapmak. Bir yandan da 21. yüzyıl insanına neden bu kadar hitap ettiğini inceleyecek ve erdemler hakkında söylediklerinin günlük hayatımıza olası etkileri hakkında düşünceğiz.<p>
-  </div>
-</div>
 
 # Güncel organizasyon detayları
 
