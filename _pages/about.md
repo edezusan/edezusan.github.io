@@ -18,8 +18,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Merhaba, ismim Ediz Dikmelik.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Felsefeyi ve disiplinli düşünmeyi temel alan Eleştirel Düşünme eğitimleri tasarlıyor, organize ediyor ve uyguluyorum. Felsefe, bilişsel bilimler ve fizikten oluşan akademik bir geçmişim var.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+2014 yılından beri Çocuklarla Felsefe alanında her yaştan çocuk gruplarıyla, neredeyse her gün felsefe etkinlikleri yapıyorum. Öğrencilerin felsefe yaptıkları gruplarda 2000 saatin üzerinde kolaylaştırıcılık deneyimi edindim. Bu çalışmalarla Türkiye’deki öğrencilerin bağımsız düşünebilen bireyler olmalarına katkı yapmayı amaçlıyorum.
+
+2018 yılından beri öğretmenlere Çocuklarla Felsefe alanında eğitmen olmakla ilgili eğitimler veriyorum. Bu eğitimlerde öğretmenlerin düşünme becerilerini ve düşünme konusundaki standartlarını yukarıya taşımayı hedefliyorum.
+
+2020 yılından beri felsefeyle ilgilenen yetişkinlere felsefeye giriş eğitimleri veriyorum. Bu eğitimlerle hem felsefe okuma hem de grup halinde ve konuşarak felsefe yapma deneyimi sunuyorum.
+
+Düşünme eğitimi ve felsefe alanında yüksek kalitede materyaller geliştiriyor ve yayınlar yapıyorum. Bu alandaki literatüre kuvvetli katkılar yapma amacındayım.
