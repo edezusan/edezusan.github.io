@@ -17,7 +17,7 @@ nav_order: 4
 
 <center><a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a></center>
 
-# Sosyal medya
+# Eposta ve sosyal medya
 
 <div class="social">
               <div class="contact-icons">

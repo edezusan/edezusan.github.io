@@ -2,7 +2,7 @@
 layout: about
 title: Ana Sayfa
 permalink: /
-subtitle: Çocuklar ve yetişkinlerle felsefe. Okuma grupları. Yaratıcı masaüstü oyunlar.
+subtitle: 
 
 profile:
   align: right
